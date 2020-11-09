@@ -25,5 +25,5 @@ https://discord.gg/QmpXJm2CKy
 # How to install?
 Step 1) Clone the repository 
 
-Step 2) Run "run.sh" or "runBetaRelease.sh". (for windows run "run.bat" or "runBetaRelease.bat"
+Step 2) Run "run.sh" or "runBetaRelease.sh". (for windows run "run.bat" or "runBetaRelease.bat" located in the folder "Batch Startup")
 
