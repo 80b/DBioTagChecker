@@ -14,5 +14,13 @@ Make an issue on the GitHub.
 # Discord Bio Official Server
 https://discord.gg/xQVfD85GN9
 
-Enjoy.
+# Beta Releases
+These beta releases are just for bug fixes so dont expect much.
+Read "/beta/UnstableWarning.md" for more info.
 
+# How to install?
+Step 1) Clone the repository 
+
+Step 2) Run "run.sh" or "runBetaRelease.sh".
+
+(If you are on Windows just change the ".sh" to a ".bat".
