@@ -10,4 +10,9 @@ Python3 or newer.
 # Bug reporting / deprecation
 Make an issue on the GitHub.
 
+
+# Discord Bio Official Server
+https://discord.gg/xQVfD85GN9
+
 Enjoy.
+
