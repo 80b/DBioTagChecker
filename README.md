@@ -1,5 +1,5 @@
 # Discord Bio Tag Checker
-Hello! I've made a simple Discord.bio tag checker to check slugs / user ids.
+Hello! I've made a simple yet useful Discord.bio tag checker to check slugs / user ids.
 This tool uses the Discord.bio API to fetch tags and users.
 This is __unofficial__, if you have any suggestions feel free to contact me on discord! (raz#7092)
 
