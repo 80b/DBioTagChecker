@@ -16,6 +16,7 @@ This tool was NOT made by Discord.bio staff and this is unofficial.
 By: Raz AKA razberries
 Bugs: add raz#7092 on discord or make an issue on github.
 Link: https://github.com/razberries/DBioTagChecker
+Official Discord Server: https://discord.gg/xQVfD85GN9
 
 Modes:
 	[1] ID Checker
