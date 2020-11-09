@@ -11,7 +11,7 @@ print("""
 ┗━━┻━━━┻┻━━┛╋╋┗┛┗┛┗┻━┓┃┗━━━┻┛┗┻━━┻━━┻┛┗┻━━┻┛
 ╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┏━┛┃
 ╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┗━━┛
-
+           ╋Beta!╋
 This tool was NOT made by Discord.bio staff and this is unofficial.
 
 By: Raz AKA razb_erries
