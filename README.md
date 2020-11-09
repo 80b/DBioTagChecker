@@ -18,6 +18,10 @@ https://discord.gg/xQVfD85GN9
 These beta releases are just for bug fixes so dont expect much.
 Read "/beta/UnstableWarning.md" for more info.
 
+# Updates and Changelogs
+Join this server for Updates and Changelogs.
+https://discord.gg/QmpXJm2CKy
+
 # How to install?
 Step 1) Clone the repository 
 
